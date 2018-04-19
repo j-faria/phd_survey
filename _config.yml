@@ -1,7 +1,7 @@
 # Setup
 title:        PhD survey
 tagline:      A survey about what it's like to do a PhD
-baseurl:      ""
+baseurl:      "."
 # paginate:     0
 locale:       "en"
 
