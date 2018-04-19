@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        PhD survey
+tagline:      A survey about what it's like to do a PhD
+baseurl:      ""
+# paginate:     0
+locale:       "en"
+
+# About/contact
+author:
+  name:       João Faria
+  url:        https://github.com/j-faria
+
+# Gems
+# gems:
+  # - jekyll-paginate
+
+#Others
+markdown: kramdown
